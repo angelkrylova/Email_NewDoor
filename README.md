@@ -1,7 +1,7 @@
 <div width="100%">
   <div align="center">
     <h1>Результат письма</h1>
-    
-    </div>
+    <img src="https://github.com/angelkrylova/Email_NewDoor/blob/main/scr.jpg" align="center" width="600"/>
+  </div>
 
 </div>
